@@ -19427,7 +19427,8 @@ a.grid-link span {
 }
 
 .w3l-testimonials blockquote q {
-    font-size: 20px;
+    font-family: math;
+    font-size: 60px;
     line-height: 28px;
     color: #fff;
     font-weight: 700;
@@ -19919,7 +19920,7 @@ p.abinfo-para {
 .w3l-team .social-icons-section a {
     border-radius: 50px;
     display: inline-block;
-    background: rgba(29, 29, 29, 0.7);
+    background: rgb(235 42 95 / 91%);
     width: 40px;
     height: 40px;
     line-height: 40px;
